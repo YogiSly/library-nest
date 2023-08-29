@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
